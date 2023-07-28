@@ -1,4 +1,4 @@
-# DL-Lip-Reading
+# LipNet
  
  A neural network capable of decoding text from the movements of a speaker's mouth ("lip reading"). This end-to-end sentence-level lip reading model was trained using a subset of the data used in the paper [https://arxiv.org/abs/1611.01599](https://arxiv.org/abs/1611.01599). 
  
